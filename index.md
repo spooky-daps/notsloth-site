@@ -1,7 +1,7 @@
 ---
 title: Not Sloth
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Productivity disguised as conversation<br />'
 image: assets/images/notsloth2.png
 nav-menu: true
 ---
@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Sed amet aliquam</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>Cut the thumb-faff.<br><br>Organise and inspire yourself in one place. Take control of the conversation, cultivate a new culture, garner good habits and fill your days with fruitful enterprise.  Don’t let your dreams dangle.</p>
 		<ul class="actions">
 			<li><a href="https://discord.gg/TQTygxw5SM" class="button next">Discord</a></li>
 		</ul>
@@ -34,7 +34,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Orci maecenas</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Not Sloth is the perfect app for go-getters, self-starters*, and for those who may simply have aspirations for greater organisation. Using its unique interface you can plot, plan and proliferate by chatting to yourself.</p>
 			</div>
 		</div>
 	</section>
@@ -47,7 +47,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Rhoncus magna</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>It is easy to feel listless amongst endless lists, Not Sloth is here to help you regain direction, navigate your tasks, manage your time and aid you in achieving your goals. It provides a place to pool resources, tie-down dates and set customisable reminders to keep you honest.</p>
 
 			</div>
 		</div>
@@ -61,7 +61,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Sed nunc ligula</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Not Sloth is available on Android and iPhone.</p>
 
 			</div>
 		</div>
@@ -74,7 +74,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Massa libero</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>Having issues? Please contact contact@notsloth.com or get in touch via Discord</p>
 
 	</div>
 </section>
