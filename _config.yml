@@ -22,14 +22,14 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub:
+  GitHub: https://discord.gg/TQTygxw5SM
   GitLab:
   Google-Plus:
   Instagram:
   LinkedIn:
   Twitter: https://twitter.com/notslothapp
   Facebook:
-  Discord: https://discord.com
+  Discord: https://discord.gg/TQTygxw5SM
 
 # build settings
 markdown: kramdown
