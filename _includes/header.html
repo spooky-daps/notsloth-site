@@ -1,10 +1,10 @@
 <!-- Wrapper -->
 <div id="wrapper">
 
-<!-- Header -->
-<header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
-	<a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
-
+	<!-- Header -->
+	<header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
+		<a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
+	</header>
 
 	<ul class="icons">
 		{% for key_value in site.socials %}
@@ -20,7 +20,7 @@
 
 
 	
-</header>
+
 
 
 
