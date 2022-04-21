@@ -5,8 +5,7 @@
 <header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
 	<a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
 </header>
-	
-	<div class="inner">
+
 		<ul class="icons">
 			{% for key_value in site.socials %}
 				{% if key_value[1] %}
@@ -18,6 +17,5 @@
 				{% endif %}
 			{% endfor %}
 		</ul>
-	</div>
-</div>
+
 
