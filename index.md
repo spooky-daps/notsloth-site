@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Cultivate</h2>
 		</header>
 		<p>Cut the thumb-faff.<br><br>Organise and inspire yourself in one place. Take control of the conversation, cultivate a new culture, garner good habits and fill your days with fruitful enterprise.  Don’t let your dreams dangle.</p>
 		<ul class="actions">
@@ -32,7 +32,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Planning</h3>
 				</header>
 				<p>Not Sloth is the perfect app for go-getters, self-starters*, and for those who may simply have aspirations for greater organisation. Using its unique interface you can plot, plan and proliferate by chatting to yourself.</p>
 			</div>
@@ -45,7 +45,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Accountability</h3>
 				</header>
 				<p>It is easy to feel listless amongst endless lists, Not Sloth is here to help you regain direction, navigate your tasks, manage your time and aid you in achieving your goals. It provides a place to pool resources, tie-down dates and set customisable reminders to keep you honest.</p>
 
@@ -59,7 +59,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>Platform</h3>
 				</header>
 				<p>Not Sloth is available on Android and iPhone.</p>
 
@@ -72,9 +72,9 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>Contact</h2>
 		</header>
-		<p>Having issues? Please contact contact@notsloth.com or get in touch via Discord</p>
+		<p>Having issues? Please email contact@notsloth.com, get in touch via Discord or use the in app feedback chat.</p>
 
 	</div>
 </section>
