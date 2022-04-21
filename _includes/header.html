@@ -1,23 +1,26 @@
 <!-- Wrapper -->
 <div id="wrapper">
 	<div class="row">
-		<!-- Header -->
-		<header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
-			<a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
-		</header>
-
-
-		<ul class="icons">
-			{% for key_value in site.socials %}
-				{% if key_value[1] %}
-					<li>
-						<a href="{{ key_value[1] }}" class="icon alt fa-{{ key_value[0] | downcase }}" target="_blank" rel="noopener noreferrer" aria-label="{{ key_value[0] }}">
-							<span class="label">{{ key_value[0] }}</span>
-						</a>
-					</li>
-				{% endif %}
-			{% endfor %}
-		</ul>
+		<div>
+			<!-- Header -->
+			<header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
+				<a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
+			</header>
+		</div>
+		<div>
+			<!-- Socials -->
+			<ul class="icons">
+				{% for key_value in site.socials %}
+					{% if key_value[1] %}
+						<li>
+							<a href="{{ key_value[1] }}" class="icon alt fa-{{ key_value[0] | downcase }}" target="_blank" rel="noopener noreferrer" aria-label="{{ key_value[0] }}">
+								<span class="label">{{ key_value[0] }}</span>
+							</a>
+						</li>
+					{% endif %}
+				{% endfor %}
+			</ul>
+		</div>
 	</div>
 
 
