@@ -34,7 +34,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Planning</h3>
 				</header>
-				<p>Not Sloth is the perfect app for go-getters, self-starters*, and for those who may simply have aspirations for greater organisation. Using its unique interface you can plot, plan and proliferate by chatting to yourself.</p>
+				<p>Not Sloth is the perfect app for go-getters, self-starters, and for those who may simply have aspirations for greater organisation. Using its unique interface you can plot, plan and proliferate by chatting to yourself.</p>
 			</div>
 		</div>
 	</section>
