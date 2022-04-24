@@ -4,7 +4,8 @@
 		<ul class="icons">
 				{% for key_value in site.socials %}
 					{% if key_value[1] %}
-						<li>
+						<li>	
+							<link rel="stylesheet" href="https://gist.githubusercontent.com/nostro2/61740565f9975e4e00fb0b3fc0e2e7be/raw/7423fe6b8d567505fb7512b14a5445227f3cadb8/font-awesome.min.css">
 							<a href="{{ key_value[1] }}" class="icon alt fa-{{ key_value[0] | downcase }}" target="_blank" rel="noopener noreferrer" aria-label="{{ key_value[0] }}">
 								<span class="label">{{ key_value[0] }}</span>
 							</a>
