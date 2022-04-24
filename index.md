@@ -19,7 +19,7 @@ nav-menu: true
 		<ul class="actions">
 			<li><a href="https://discord.gg/TQTygxw5SM" class="button next">Discord</a></li>
 		</ul>
-		
+
 	</div>
 </section>
 
@@ -61,7 +61,14 @@ nav-menu: true
 				<header class="major">
 					<h3>Platform</h3>
 				</header>
+
 				<p>Not Sloth is available on Android and iPhone.</p>
+
+
+				<a href="false" target="_blank" rel="noopener noreferrer" style="border:none;text-decoration:none"><img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-example-preferred.png"></a>
+				<a href="https://play.google.com/store/apps/details?id=dev.yadl.not_sloth" target="_blank" rel="noopener noreferrer" style="border:none;text-decoration:none"><img src="https://lh3.googleusercontent.com/cjsqrWQKJQp9RFO7-hJ9AfpKzbUb_Y84vXfjlP0iRHBvladwAfXih984olktDhPnFqyZ0nu9A5jvFwOEQPXzv7hr3ce3QVsLN8kQ2Ao=s0"></a>
+
+
 
 			</div>
 		</div>
@@ -74,7 +81,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Contact</h2>
 		</header>
-		<p>Having issues? Please email contact@notsloth.com, get in touch via Discord or use the in app feedback chat.</p>
+		<p>Having issues? Please email contact@yadl.dev, get in touch via Discord or use the in app feedback chat.</p>
 
 	</div>
 </section>
