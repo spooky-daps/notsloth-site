@@ -8,7 +8,7 @@ layout: getapp
 <script>
     $(document).ready(function () {
         if (navigator.userAgent.toLowerCase().indexOf("android") > -1) {
-            window.location.href = 'market://details?id=<appID>';
+            window.location.href = 'https://play.google.com/store/apps/details?id=dev.yadl.not_sloth';
         }
         if (navigator.userAgent.toLowerCase().indexOf("iphone") > -1) {
             window.location.href = 'itms-apps://itunes.apple.com/app/<appID>';
