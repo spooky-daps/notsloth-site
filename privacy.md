@@ -1,3 +1,8 @@
+---
+title: Privacy
+layout: page
+---
+
 <html>
 
 <style>
