@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Privacy
-nav-menu: fales
+nav-menu: false
 ---
 <html>
 <style>
