@@ -65,7 +65,7 @@ nav-menu: true
 				<p>Not Sloth is available on Android and iPhone.</p>
 
 
-				<a href="false" target="_blank" rel="noopener noreferrer" style="border:none;text-decoration:none"><img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-example-preferred.png"></a>
+				<a href="itms-apps://itunes.apple.com/app/not-sloth/id1619976538" target="_blank" rel="noopener noreferrer" style="border:none;text-decoration:none"><img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-example-preferred.png"></a>
 				<a href="https://play.google.com/store/apps/details?id=dev.yadl.not_sloth" target="_blank" rel="noopener noreferrer" style="border:none;text-decoration:none"><img src="https://lh3.googleusercontent.com/cjsqrWQKJQp9RFO7-hJ9AfpKzbUb_Y84vXfjlP0iRHBvladwAfXih984olktDhPnFqyZ0nu9A5jvFwOEQPXzv7hr3ce3QVsLN8kQ2Ao=s0"></a>
 
 
