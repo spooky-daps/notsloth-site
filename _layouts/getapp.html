@@ -13,12 +13,12 @@
 		window.dataLayer = window.dataLayer || [];
 		navigator.userAgent.toLowerCase();
 		if (navigator.userAgent.toLowerCase().indexOf("android") > -1) {
-		    window.location.replace = 'market://details?id=dev.yadl.not_sloth';
+		    window.location = 'market://details?id=dev.yadl.not_sloth';
 		}
 		if (navigator.userAgent.toLowerCase().indexOf("iphone") > -1) {
-		    window.location.replace = 'itms-apps://itunes.apple.com/app/not-sloth/id1619976538';
+		    window.location = 'itms-apps://itunes.apple.com/app/not-sloth/id1619976538';
 		} else {
-		    window.location.replace = 'https://notsloth.com'
+		    window.location = 'https://notsloth.com'
 		}
 	    });
 	</script>
