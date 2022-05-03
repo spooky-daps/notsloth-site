@@ -16,6 +16,10 @@ nav-menu: true
 			<h2>Cultivate</h2>
 		</header>
 		<p>Cut the thumb-faff.<br><br>Organise and inspire yourself in one place. Take control of the conversation, cultivate a new culture, garner good habits and fill your days with fruitful enterprise.  Don’t let your dreams dangle.</p>
+		
+		<a href="itms-apps://itunes.apple.com/app/not-sloth/id1619976538" rel="noopener noreferrer" style="border:none;text-decoration:none"><img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-example-preferred.png"></a>
+		<a href="https://play.google.com/store/apps/details?id=dev.yadl.not_sloth" rel="noopener noreferrer" style="border:none;text-decoration:none"><img src="https://lh3.googleusercontent.com/cjsqrWQKJQp9RFO7-hJ9AfpKzbUb_Y84vXfjlP0iRHBvladwAfXih984olktDhPnFqyZ0nu9A5jvFwOEQPXzv7hr3ce3QVsLN8kQ2Ao=s0"></a>
+		
 		<ul class="actions">
 			<li><a href="https://discord.gg/TQTygxw5SM" class="button next">Discord</a></li>
 		</ul>
@@ -63,10 +67,6 @@ nav-menu: true
 				</header>
 
 				<p>Not Sloth is available on Android and iPhone.</p>
-
-
-				<a href="itms-apps://itunes.apple.com/app/not-sloth/id1619976538" rel="noopener noreferrer" style="border:none;text-decoration:none"><img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-example-preferred.png"></a>
-				<a href="https://play.google.com/store/apps/details?id=dev.yadl.not_sloth" rel="noopener noreferrer" style="border:none;text-decoration:none"><img src="https://lh3.googleusercontent.com/cjsqrWQKJQp9RFO7-hJ9AfpKzbUb_Y84vXfjlP0iRHBvladwAfXih984olktDhPnFqyZ0nu9A5jvFwOEQPXzv7hr3ce3QVsLN8kQ2Ao=s0"></a>
 
 
 
