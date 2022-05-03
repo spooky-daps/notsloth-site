@@ -5,6 +5,12 @@ description: 'Productivity disguised as conversation<br />'
 image: assets/images/notsloth2.png
 nav-menu: true
 ---
+<style>
+	img.banner-button {
+	    height: 58px;
+	    width: 174px;
+	}
+</style>
 
 <!-- Main -->
 <div id="main">
@@ -12,8 +18,8 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<a href="itms-apps://itunes.apple.com/app/not-sloth/id1619976538" rel="noopener noreferrer" style="border:none;text-decoration:none"><img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-example-preferred.png"></a>
-		<a href="itms-apps://itunes.apple.com/app/not-sloth/id1619976538" rel="noopener noreferrer" style="border:none;text-decoration:none"><img src="https://lh3.googleusercontent.com/cjsqrWQKJQp9RFO7-hJ9AfpKzbUb_Y84vXfjlP0iRHBvladwAfXih984olktDhPnFqyZ0nu9A5jvFwOEQPXzv7hr3ce3QVsLN8kQ2Ao=s0"></a>
+		<a href="itms-apps://itunes.apple.com/app/not-sloth/id1619976538" rel="noopener noreferrer" style="border:none;text-decoration:none"><img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-example-preferred.png" class="banner-button"></a>
+		<a href="itms-apps://itunes.apple.com/app/not-sloth/id1619976538" rel="noopener noreferrer" style="border:none;text-decoration:none"><img src="https://lh3.googleusercontent.com/cjsqrWQKJQp9RFO7-hJ9AfpKzbUb_Y84vXfjlP0iRHBvladwAfXih984olktDhPnFqyZ0nu9A5jvFwOEQPXzv7hr3ce3QVsLN8kQ2Ao=s0" class="banner-button"></a>
 		<header class="major">
 			<h2>Cultivate</h2>
 		</header>
