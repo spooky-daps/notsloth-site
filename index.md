@@ -19,10 +19,6 @@ nav-menu: true
 		
 		<a href="itms-apps://itunes.apple.com/app/not-sloth/id1619976538" rel="noopener noreferrer" style="border:none;text-decoration:none"><img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-example-preferred.png"></a>
 		<a href="itms-apps://itunes.apple.com/app/not-sloth/id1619976538" rel="noopener noreferrer" style="border:none;text-decoration:none"><img src="https://lh3.googleusercontent.com/cjsqrWQKJQp9RFO7-hJ9AfpKzbUb_Y84vXfjlP0iRHBvladwAfXih984olktDhPnFqyZ0nu9A5jvFwOEQPXzv7hr3ce3QVsLN8kQ2Ao=s0"></a>
-		
-		<ul class="actions">
-			<li><a href="https://discord.gg/TQTygxw5SM" class="button next">Discord</a></li>
-		</ul>
 
 	</div>
 </section>
@@ -40,6 +36,9 @@ nav-menu: true
 				</header>
 				<p>Not Sloth is the perfect app for go-getters, self-starters, and for those who may simply have aspirations for greater organisation. Using its unique interface you can plot, plan and proliferate by chatting to yourself.</p>
 			</div>
+		<ul class="actions">
+			<li><a href="https://discord.gg/TQTygxw5SM" class="button next">Discord</a></li>
+		</ul>
 		</div>
 	</section>
 	<section>
