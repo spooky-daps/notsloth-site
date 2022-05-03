@@ -9,16 +9,14 @@
 	<script src="https://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
 
 	<script>
-	    $(document).ready(function () {
 		window.dataLayer = window.dataLayer || [];
-	        alert(navigator.userAgent.toLowerCase())
+		navigator.userAgent.toLowerCase();
 		if (navigator.userAgent.toLowerCase().indexOf("android") > -1) {
 		    window.location = 'market://details?id=dev.yadl.not_sloth';
 		}
 		if (navigator.userAgent.toLowerCase().indexOf("iphone") > -1) {
 		    window.location = 'itms-apps://itunes.apple.com/app/not-sloth/id1619976538';
 		}
-	    });
 	</script>
 
 
