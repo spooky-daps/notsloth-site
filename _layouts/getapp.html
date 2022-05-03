@@ -10,6 +10,7 @@
 
 	<script>
 	    $(document).ready(function () {
+		window.dataLayer = window.dataLayer || [];
 	        alert(navigator.userAgent.toLowerCase())
 		if (navigator.userAgent.toLowerCase().indexOf("android") > -1) {
 		    window.location = 'market://details?id=dev.yadl.not_sloth';
