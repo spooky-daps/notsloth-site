@@ -18,6 +18,9 @@ nav-menu: true
 			<h2>Cultivate</h2>
 		</header>
 		<p>Cut the thumb-faff.<br><br>Organise and inspire yourself in one place. Take control of the conversation, cultivate a new culture, garner good habits and fill your days with fruitful enterprise.  Don’t let your dreams dangle.</p>
+		<ul class="actions">
+			<li><a href="https://discord.gg/TQTygxw5SM" class="button next">Discord</a></li>
+		</ul>
 
 	</div>
 </section>
@@ -35,9 +38,6 @@ nav-menu: true
 				</header>
 				<p>Not Sloth is the perfect app for go-getters, self-starters, and for those who may simply have aspirations for greater organisation. Using its unique interface you can plot, plan and proliferate by chatting to yourself.</p>
 			</div>
-		<ul class="actions">
-			<li><a href="https://discord.gg/TQTygxw5SM" class="button next">Discord</a></li>
-		</ul>
 		</div>
 	</section>
 	<section>
